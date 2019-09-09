@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Sep  6 15:24:48 2019
-
 @author: sarth
 """
 # Importing the libraries
